@@ -1,4 +1,4 @@
-# Understanding Image Concepts in Automatic Detection of Electronic Components in Waste Printed Circuit Boards with Raspberry Pi
+# Understanding Image Concepts for Object Detection
 
 ## Image Pixels, Pixel Density, Resolution, DPI, and PPI
 
@@ -28,4 +28,4 @@ By capturing images at high resolution and ensuring a suitable pixel density, we
 
 Thanks for reading. Follow for more
 
-Click on **Author:** [Google Scholar](https://scholar.google.com/citations?user=Ht3LV2kAAAAJ&hl=en) 
+**Author:** [Google Scholar](https://scholar.google.com/citations?user=Ht3LV2kAAAAJ&hl=en) 
